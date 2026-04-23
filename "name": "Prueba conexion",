@@ -1,8 +1,0 @@
-{
-  "name": "Prueba conexión",
-  "description": "Test simple",
-  "params": [
-    { "name": "valor", "type": "number" }
-  ],
-  "result": { "type": "string" }
-}
